@@ -1,7 +1,5 @@
 <div align="center">  
-![download](https://github.com/user-attachments/assets/13ac182b-830b-4985-a27d-8cec27289ca9)
-
-
+  [![Hello World, I'm Safura!](assets/header.gif)](https://github.com/kshyun28)
   Hello, World!
   ⋆˚࿔ My name is Safura Shafi ⋆˚࿔
   
