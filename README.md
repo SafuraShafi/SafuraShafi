@@ -1,13 +1,11 @@
-<div align="center"> 
+<div align="center">  
+![download](https://github.com/user-attachments/assets/13ac182b-830b-4985-a27d-8cec27289ca9)
 
-  ![Dark aesthetic](https://github.com/user-attachments/assets/c90970c3-237e-4a3b-acce-49222c7217c2)
-  
+
   Hello, World!
   ⋆˚࿔ My name is Safura Shafi ⋆˚࿔
   
   🔭 I’m currently working on creating a website to hold all my recipes! 
-
-
 </div>
 
 
